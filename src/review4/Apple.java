@@ -43,8 +43,7 @@ double price;
         System.out.println(app.name);
         System.out.println(app.shape);
 
-        System.out.println(Fruit.fresh);
-        System.out.println(Apple.fresh);
+
 
         app.grow();// from fruit class
         app.haveBenefits();// from fruit class

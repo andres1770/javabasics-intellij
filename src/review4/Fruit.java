@@ -4,7 +4,8 @@ public class Fruit {
    protected String name ;
     String shape;
   private  String color;
-  public  static boolean fresh;
+  final public static boolean FRESH=true;
+final public static boolean CAN_EAT=true;
 
 
     public Fruit(String name){
@@ -15,8 +16,8 @@ public class Fruit {
         this.shape=shape;
         this.color=color;
     }
-   public  void grow(){
-        System.out.println("All fruits grow fresh "+fresh);
+    void grow(){
+        System.out.println("All fruits grow fresh ");
     }
    protected void haveBenefits(){
         System.out.println("All fruits are good for your health");
