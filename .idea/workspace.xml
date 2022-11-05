@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8cb59f5-b913-44b6-b714-5382f8b2d3ff" name="Changes" comment="classes">
-      <change afterPath="$PROJECT_DIR$/src/class26/ArraylistVSLinkedlist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class26/TypesOfSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class26/listdemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class26/whySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class26/whenToUseSets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,26 +46,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TypesOfSets">
+  <component name="RunManager" selected="Application.whenToUseSets">
     <configuration name="ArraylistVSLinkedlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class26.ArraylistVSLinkedlist" />
       <module name="SDTEBatch14" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="class26.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review5.Test" />
-      <module name="SDTEBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="review5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="whenToUseSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class26.whenToUseSets" />
+      <module name="SDTEBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class26.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.whenToUseSets" />
         <item itemvalue="Application.TypesOfSets" />
         <item itemvalue="Application.ArraylistVSLinkedlist" />
         <item itemvalue="Application.task3" />
         <item itemvalue="Application.task1" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667665602398</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="classes">
+      <created>1667673266597</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667673266597</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
