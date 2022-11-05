@@ -9,6 +9,17 @@ package review5;
         // BY DEFAULT ALL METHODS ARE PUBLIC  ABSTRACT
         void breaks();
     }
+    interface vehicle{
+        void havemotor();
+
+        //from java 8 we can have static method and default methods
+        default void haveBreak(){
+            System.out.println("All vehicle have break");
+        }
+        static void honk(){
+            System.out.println("all vehicles honk");
+        }
+    }
     public abstract class Car {
         String color,make,model;
 public static final int WHEELS=4;
@@ -24,7 +35,7 @@ public static final int WHEELS=4;
     abstract void stop();
 
 }
-class Tesla extends Car implements Drivable {
+class Tesla extends Car implements Drivable , vehicle{
 
     Tesla(String color, String make, String model) {
         super(color, make, model);
@@ -46,5 +57,10 @@ class Tesla extends Car implements Drivable {
     @Override
     public void breaks() {
         System.out.println(make+" can break");
+    }
+
+    @Override
+    public void havemotor() {
+
     }
 }
