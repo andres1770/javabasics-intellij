@@ -1,104 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8cb59f5-b913-44b6-b714-5382f8b2d3ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class13/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class13/Math.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class13/MethodsInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class13/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class13/StringbuffervsStringbuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class13/Stringrecap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class13/methods3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class13/task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class13/task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class13/task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class13/task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class13/task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reviewclass3/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reviewclass3/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class14/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class14/HondaBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class14/Stringarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class14/everyOtherCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class14/printVocalsOnly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class14/task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class14/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class14/task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class16/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class16/SyntaxEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class16/task1tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class17/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class17/Dogtester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class17/Task1FromPck18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class17/employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class17/employeetester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class17/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class17/task1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class17/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class17/task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class18/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class18/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class18/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class18/Cattester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class18/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class18/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class18/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class18/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class18/Task3tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class18/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class18/ThisKeywordDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class18/consTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class19/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class19/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class19/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class19/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class19/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class19/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class20/MethodOverLoading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class21/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class21/AnimalTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class21/Browser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class21/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class21/EmployeeTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class21/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class21/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class21/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class21/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class21/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class21/task1c20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class21/task2c20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class22/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class22/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class22/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class22/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/Arraylistdemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/arraylistdemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/arraylistdemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/arraylistdemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/whyCollectionsFramework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/WrapperClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/genericcolloections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project2/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project2/has.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project2/requirements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replit/replit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replit/replit1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review4/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review4/Banana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review4/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reviewClass1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reviewClass1/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reviewClass1/Shelter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reviewClass1/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reviewClass1/cat.java" afterDir="false" />
+    <list default="true" id="a8cb59f5-b913-44b6-b714-5382f8b2d3ff" name="Changes" comment="classes">
+      <change afterPath="$PROJECT_DIR$/src/class26/ArraylistVSLinkedlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class26/TypesOfSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class26/listdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class26/whySet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,19 +43,19 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.arraylistdemo4">
-    <configuration name="Arraylistdemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class24.Arraylistdemo2" />
+  <component name="RunManager" selected="Application.TypesOfSets">
+    <configuration name="ArraylistVSLinkedlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class26.ArraylistVSLinkedlist" />
       <module name="SDTEBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class24.*" />
+          <option name="PATTERN" value="class26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arraylistdemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class24.arraylistdemo1" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review5.Test" />
       <module name="SDTEBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class24.*" />
+          <option name="PATTERN" value="review5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arraylistdemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class24.arraylistdemo3" />
+    <configuration name="TypesOfSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class26.TypesOfSets" />
       <module name="SDTEBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class24.*" />
+          <option name="PATTERN" value="class26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arraylistdemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class24.arraylistdemo4" />
+    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class26.task1" />
       <module name="SDTEBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class24.*" />
+          <option name="PATTERN" value="class26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="whyCollectionsFramework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class24.whyCollectionsFramework" />
+    <configuration name="task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class26.task3" />
       <module name="SDTEBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class24.*" />
+          <option name="PATTERN" value="class26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.arraylistdemo4" />
-        <item itemvalue="Application.arraylistdemo3" />
-        <item itemvalue="Application.Arraylistdemo2" />
-        <item itemvalue="Application.arraylistdemo1" />
-        <item itemvalue="Application.whyCollectionsFramework" />
+        <item itemvalue="Application.TypesOfSets" />
+        <item itemvalue="Application.ArraylistVSLinkedlist" />
+        <item itemvalue="Application.task3" />
+        <item itemvalue="Application.task1" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -227,6 +134,28 @@
       <option name="presentableId" value="Default" />
       <updated>1664129446423</updated>
     </task>
+    <task id="LOCAL-00001" summary="classes">
+      <created>1667143596559</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667143596559</updated>
+    </task>
+    <task id="LOCAL-00002" summary="classes">
+      <created>1667264676928</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667264676928</updated>
+    </task>
+    <task id="LOCAL-00003" summary="classes">
+      <created>1667665602398</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667665602398</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,5 +168,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="classes" />
   </component>
 </project>
