@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8cb59f5-b913-44b6-b714-5382f8b2d3ff" name="Changes" comment="classes">
-      <change afterPath="$PROJECT_DIR$/src/class27/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class27/MapDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class27/MapDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class27/MapDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class27/MapDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class27/arrayListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class27/mapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw/deleteDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw/insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class27/MapDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class27/MapDemo6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDTEBatch14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDTEBatch14.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/MapDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27/MapDemo4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +48,7 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MapDemo4">
+  <component name="RunManager" selected="Application.MapDemo5">
     <configuration name="MapDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class27.MapDemo1" />
       <module name="SDTEBatch14" />
@@ -110,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class27.mapDemo" />
+    <configuration name="MapDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class27.MapDemo5" />
       <module name="SDTEBatch14" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapDemo5" />
         <item itemvalue="Application.MapDemo4" />
         <item itemvalue="Application.MapDemo3" />
         <item itemvalue="Application.MapDemo2" />
         <item itemvalue="Application.MapDemo1" />
-        <item itemvalue="Application.mapDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667674241138</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="classes">
+      <created>1667761752139</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667761752139</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
